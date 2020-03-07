@@ -1,2 +1,2 @@
 # Snake game
- My first game created in C++
+ My first game created in C/C++
